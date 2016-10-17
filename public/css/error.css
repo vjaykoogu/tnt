@@ -1,0 +1,11 @@
+#adhocform .has-error .control-label,
+#adhocform .has-error .help-block,
+#adhocform .has-error .form-control {
+    color: #f39c12;
+}
+
+#adhocform .has-success .control-label,
+#adhocform .has-success .help-block,
+#adhocform .has-success .form-control {
+    color: #18bc9c;
+}
